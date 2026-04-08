@@ -459,6 +459,4 @@ keydrop.com##.shrink-0.w-6.h-6
 keydrop.com###headlessui-portal-root > div > div > .z-50.relative
 keydrop.com##.md\:py-16.py-8
 cs2a.run##.lg\:\[mask-image\:linear-gradient\(90deg\,\#00000000\,black_2rem\,black_calc\(100\%-5rem\)\,\#00000000\)\].lg\:px-7.lg\:-mx-7.md\:py-1.sm\:pt-1.sm\:h-11.\[mask-image\:linear-gradient\(90deg\,\#00000000\,black_\.5rem\,black_calc\(100\%-4rem\)\,\#00000000\)\].pt-1.pr-4.pl-4.overflow-x-auto.gap-1.lg\:w-\[calc\(100\%\+1\.75rem\*2\)\].h-9.flex.-mx-2\.5.lg\:mt-6.mt-1.no-scrollbar
-! 8 апр. 2026 г. https://cs2a.run
-cs2a.run##.lg\:col-span-3.sm\:px-7\.5.sm\:h-45.sm\:py-6\.5.\[--to\:\#aa374280\].\[--from\:\#ff6170\].p-5.bg-gradient-var.bg-\[\#1c233a\].rounded-3xl.overflow-hidden.col-span-full.z-1.relative
 
