@@ -460,3 +460,4 @@ keydrop.com###headlessui-portal-root > div > div > .z-50.relative
 keydrop.com##.md\:py-16.py-8
 cs2a.run##.lg\:\[mask-image\:linear-gradient\(90deg\,\#00000000\,black_2rem\,black_calc\(100\%-5rem\)\,\#00000000\)\].lg\:px-7.lg\:-mx-7.md\:py-1.sm\:pt-1.sm\:h-11.\[mask-image\:linear-gradient\(90deg\,\#00000000\,black_\.5rem\,black_calc\(100\%-4rem\)\,\#00000000\)\].pt-1.pr-4.pl-4.overflow-x-auto.gap-1.lg\:w-\[calc\(100\%\+1\.75rem\*2\)\].h-9.flex.-mx-2\.5.lg\:mt-6.mt-1.no-scrollbar
 
+cs2a.run##.lg\:hidden.w-3.icon
